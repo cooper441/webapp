@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/https//cooper441.github.io/webapp/static/css/main.07bdb101.css",
+    "main.js": "/https//cooper441.github.io/webapp/static/js/main.8b0c1d95.js",
+    "static/js/787.994511a4.chunk.js": "/https//cooper441.github.io/webapp/static/js/787.994511a4.chunk.js",
+    "static/media/logo.jpg": "/https//cooper441.github.io/webapp/static/media/logo.b9697f98eece99a0fd8f.jpg",
+    "index.html": "/https//cooper441.github.io/webapp/index.html",
+    "main.07bdb101.css.map": "/https//cooper441.github.io/webapp/static/css/main.07bdb101.css.map",
+    "main.8b0c1d95.js.map": "/https//cooper441.github.io/webapp/static/js/main.8b0c1d95.js.map",
+    "787.994511a4.chunk.js.map": "/https//cooper441.github.io/webapp/static/js/787.994511a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07bdb101.css",
+    "static/js/main.8b0c1d95.js"
+  ]
+}
